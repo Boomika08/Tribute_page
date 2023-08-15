@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+}
+.Section-top{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-image: url(img2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.main{
+    font-size: 25px;
+    position: fixed;
+    color: rgb(251, 248, 95);
+    width: 65%;
+    top: 130px;
+    user-select: none;
+    margin-left: 350px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Edu SA Beginner', cursive;
+}
+.heading{
+    color: rgb(133, 1, 1);
+    text-align: center;
+    font-size: 70px;
+    margin-top: 33x;
+    user-select: none;
+    font-weight: bolder;
+    font-family: 'Sacramento', cursive;
+}
+.img1{
+    position: absolute;
+    width:20%;
+    top: 150px;
+    right: 90px;
+}
